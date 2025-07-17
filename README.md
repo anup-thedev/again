@@ -2,4 +2,4 @@
 My first Git repository.
 <br>
 Author - Anup Dhimal
-<h1>Hey everyone</h1>
+<h1>Hey Anup</h1>
